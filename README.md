@@ -1,4 +1,4 @@
-Multi-modal, Multi-granularity Ship target recognition
+Ship Target Recognition Based on Radar and AIS Trajectory Data
 
 ## Models
 
